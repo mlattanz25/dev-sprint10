@@ -1,0 +1,14 @@
+xml.title "Recall"  
+xml.description "'cause you're too busy to remember"  
+xml.link request.url  request.path_info
+
+
+
+
+
+
+
+
+
+
+
